@@ -1,7 +1,7 @@
 - 👋 Olá, sou a  @MelinaRavani.
 - 👀 Estou  aqui para aprender a codar.
 - 🌱 Sou estudante de TI.
-- 💞️ Aprendendo e posso contribuir com seus codigos!
+- 💞️ Aprendendo progrmar  e posso contribuir com seus codigos!
 - 📫 Pode me encontrar nas minhas rede sociais!
 
 
